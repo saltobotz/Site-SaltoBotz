@@ -210,6 +210,18 @@ const membros = [
     github: "https://github.com/feliperodriguescardoso",
     linkedin: "https://www.linkedin.com/in/felipe-rodrigues-cardoso/",
   },
+  {
+    id: 11,
+    nome: "Felipe Cardoso",
+    apelido: "Cardoso",
+    cargo: "Engenheiro",
+    areas: ["eletrica"] as AreaId[],
+    anoIngresso: "2024",
+    foto: "/images/membros/felipe-cardoso.jpg",
+    email: "feliperodriguescardoso983@gmail.com",
+    github: "https://github.com/feliperodriguescardoso",
+    linkedin: "https://www.linkedin.com/in/felipe-rodrigues-cardoso/",
+  },
 ]
 
 export default function MembrosClient() {
